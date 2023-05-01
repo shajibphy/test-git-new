@@ -1,0 +1,3 @@
+Working Directory > staging Area > local repo. > remote repo
+test_Project > git add ....> git commit    > git Pushgit 
+
