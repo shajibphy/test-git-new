@@ -1,1 +1,2 @@
 Hei! this is test7 file and I am from feature1 branch.
+Hello I am the 2nd line from main branch
